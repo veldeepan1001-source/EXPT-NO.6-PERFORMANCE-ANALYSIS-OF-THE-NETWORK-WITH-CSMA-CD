@@ -81,6 +81,8 @@ $ns at 8.0 "finish"
 $ns run
  
 # OUTPUT
+![WhatsApp Image 2025-09-12 at 4 33 09 PM](https://github.com/user-attachments/assets/4c3fe241-ee19-4a5a-9f17-512b7da4360c)
+
 
 
 
